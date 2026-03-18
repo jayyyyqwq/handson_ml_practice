@@ -42,4 +42,4 @@ Each folder contains my notes, experiments, and exercises for that chapter. Some
 
 ---
 
-*If you're on a similar path, feel free to look around. And if you're a recruiter or engineer — this is what consistent, self-directed learning looks like.*
+*If you're on a similar path, feel free to look around. And if you're a recruiter or engineer this is what consistent, self-directed learning looks like.*
